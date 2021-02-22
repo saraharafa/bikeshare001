@@ -13,11 +13,11 @@ We  will compare the system usage between three large cities: Chicago, New York 
 3. User then decides if he needs to show raw data or not.
 4. User can restart all commands allover again.
 
-### Prerequisites
+## Prerequisites
 
 * python 3.0++ ,and pandas installed, and files: new_york_city.csv, chicago.csv, washington.csv, and bikeshare.py
 
-### Resources Used
+## Resources Used
 
 1. Udacity Data Analysis Professional Nanodegree course.
 2. Used bikeshare_2.py template provided in the Nanodegree program.
